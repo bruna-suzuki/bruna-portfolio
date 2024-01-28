@@ -2,7 +2,6 @@ body{
     margin: auto;
 }
 
-
 .header{
     background-color: #333333;
     height: 52px;
@@ -12,9 +11,12 @@ body{
 
 a{
     color:#DCBFFF;
+    
 }
 
-
-.tela-fundo{
-    background-image: url(images/tela-fundo.png);
+.imgFundo{
+    display: table;
+    width: 100%;
+    text-align: center;
+    background-size: cover;
 }
