@@ -1,3 +1,5 @@
+@import url('https: //fonts.googleapis.com/css2?family=Jacques+Francois&display=swap');
+
 /* INDEX ---------------------------------------------------------- */
 body{
     margin: auto;
@@ -19,15 +21,7 @@ body{
 }
 
 a{
-    font-family: "Jacques Francois", serif;
-    font-weight: 300;
     color:#DCBFFF;
     font-size: 22px;
     text-decoration: none;
-}
-
-h1{
-    font-family: "Jacques Francois", serif;
-    font-weight: 600;
-    font-style: normal;
 }
