@@ -1,22 +1,22 @@
 body{
     margin: auto;
+    background-image: url(images/tela-fundo.png);
+    display: table;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed; /*imagem fixa ao rolar a tela */
 }
+
 
 .header{
     background-color: #333333;
     height: 52px;
     border-radius: 30px;
     width: 50%;
+    text-align: center; /*home, about, projects, contact*/
 }
 
 a{
     color:#DCBFFF;
     
-}
-
-.imgFundo{
-    display: table;
-    width: 100%;
-    text-align: center;
-    background-size: cover;
 }
