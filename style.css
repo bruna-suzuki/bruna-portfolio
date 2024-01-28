@@ -1,7 +1,20 @@
+body{
+    margin: auto;
+}
+
+
 .header{
     background-color: #333333;
+    height: 52px;
+    border-radius: 30px;
+    width: 50%;
 }
 
 a{
     color:#DCBFFF;
+}
+
+
+.tela-fundo{
+    background-image: url(images/tela-fundo.png);
 }
