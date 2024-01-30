@@ -2,6 +2,7 @@
 
 /* INDEX ---------------------------------------------------------- */
 body {
+    font-family: "Jacques Francois", serif;
     margin: auto;
     background-image: url(images/tela-fundo.png);
     display: table;
